@@ -1,0 +1,7 @@
+{
+    "name": "my-greet-function",
+    "version": "1.0.0",
+    "description": "Simple function that greets the user",
+    "keywords": ["greet", "function"],
+    "main": "index.js"
+}
